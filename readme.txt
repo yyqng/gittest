@@ -6,3 +6,4 @@ Git tracks changes
 Creat a new branch
 Origin master branch.
 Resolve a conflict 22.
+Resolve a conflict.
